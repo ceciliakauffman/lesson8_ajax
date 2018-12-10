@@ -4,21 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+December 10,2018
 
 ### Student Name:  
-(First and Last Name)
+Cecilia Kauffman
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we used an external API and JSON and AJAX to code in such a way that pulled information from the API database and out it into our application.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://ceciliakauffman.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-4. (Briefly describe a lesson/concept learned in this lesson.)
-5. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to get an API.
+2. I learned how to get my code to read as both HTML and JSON.
+3. I learned that AJAX is important.
+4. I learned that even if things arent the exact same as the directions, as long as they match in all code its fine.
+5. I learned that it feels awesome to get something right the first time.
